@@ -3,7 +3,7 @@
 > **Skills, Verified. Not Claimed.**  
 > A dual-sided full-stack platform built for **Nerds Hack Days Lucknow**. Designed to bridge the gap between candidates and recruiters through AI-driven technical assessments, live recruiter invites, and automated skill validation powered by Google Gemini.
 
-### 🌐 Live Demo: [skillproof-fullstack-code.vercel.app](https://skillproof-fullstack-code.vercel.app/)
+🔗 **Live Website:** [https://skillproof-fullstack-code.vercel.app/](https://skillproof-fullstack-code.vercel.app/)
 
 ---
 
